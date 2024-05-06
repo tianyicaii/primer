@@ -1,0 +1,7 @@
+
+bazel-bin
+bazel-primer
+bazel-out
+bazel-testlogs
+
+MODULE.bazel.lock

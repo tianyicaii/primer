@@ -3,5 +3,7 @@ bazel-bin
 bazel-primer
 bazel-out
 bazel-testlogs
+external
 
+compile_commands.json
 MODULE.bazel.lock
